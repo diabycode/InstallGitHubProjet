@@ -18,9 +18,10 @@ Aide pour installer un projet Python sur GitHub.
 
 3. Cloner le projet à partir du dépôt GitHub en utilisant la commande "git clone". Pour cela, vous avez besoin de l'URL du dépôt GitHub. 
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c667191a-c5bb-478b-9267-a34937b26880/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/97140632/221427017-193cc1dd-78eb-4854-a08f-b54c8a6dc44c.png)
+
     
-    Par exemple, si l'URL du dépôt est "**[https://github.com/username/repo.git](https://github.com/username/repo.git)**", vous pouvez utiliser la commande suivante pour cloner le projet :
+    Par exemple, si l'URL du dépôt est "https://github.com/username/repo.git", vous pouvez utiliser la commande suivante pour cloner le projet :
     
     ```bash
     git clone https://github.com/username/repo.git
